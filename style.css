@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(90, 231, 163);
+    margin: 75px;
+    padding-bottom: 40px;
+    padding-left: 500px;
+}
+#gender{
+    width: 170px;
+    height: 10;
+}
+
+.details{
+    border: 2px;
+    width: 180px;
+    background-color: rgb(81, 137, 210);
+    padding-inline: 30px;
+    padding-bottom: 20px;
+    
+}
+input[type="submit"]{
+    background-color: green;
+    color: white;
+    width: 168px;
+   
+}
+    
